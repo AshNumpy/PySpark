@@ -8,7 +8,7 @@ Music Data Project Case Study:
 • Calculate the Royalties of different Artist & Music companies.
 • Understand more about the users demographics like:
 • Gender: understand behaviour of male vs female users
-•  Age: Create age buckets & track behaviour of this bucket.
+• Age: Create age buckets & track behaviour of this bucket.
 • Country: this will help to expand the company in other countries.
     • Cluster similar users
     • Cluster similar Artists
